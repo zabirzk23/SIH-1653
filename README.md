@@ -109,5 +109,5 @@ Security Measures: End-to-end encryption, multi-factor authentication, and role-
 
 1.AI Model Training & Optimization: Ongoing requirement for accuracy.
 2.Data Mapping & Collection: 20-25 days estimated, covering real interview data, historical success metrics, and job-role-specific competency frameworks.
-3.Budget: Increased to INR 15-20 lakhs, factoring
+3.Budget: Increased to INR 15-20 lakhs, factoring in advanced AI model development speech analysis tools and cloud costs.
 
