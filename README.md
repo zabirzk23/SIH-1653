@@ -58,7 +58,7 @@ Provides interview performance analytics for recruiters to refine their assessme
 
 
 ## Use Cases
-
+```
 Candidate Evaluation
 │
 ├── AI-Based Competency Assessment
@@ -89,7 +89,7 @@ Recruitment Process Optimization
 ├── AI-Generated Performance Benchmarks
 └── Future Workforce Planning Insights
 
-
+```
 
 ## Technology Stack
 
